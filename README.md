@@ -36,6 +36,13 @@ I used to have `Nominated for UW Co-op Student of the Year` as my main bullet po
 
 I hope to make a LaTeX version of this resume at some point in the near future.
 
+## Results
+
+Students have gotten jobs at the following Companies / Titles with this resume template:
+
+- [SNOLAB](https://www.snolab.ca/) / Liquid Argon Dark Matter Experimenter
+- [Portage Labs](https://www.portagelabs.io/) / Founding Engineer Co-op
+
 ## License
 
 This project is licensed under the MIT License.
