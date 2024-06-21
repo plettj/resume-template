@@ -30,7 +30,7 @@ A set of 16 dishes where 1 is broken is appraised by pawn shop owners at a _far_
 
 3. Placing negative qualifiers last vastly increases your chances of a **favourable misinterpretation** by a recruiter (research + my experience)
 
-I used to have `Nominated for UW Co-op Student of the Year` as my main bullet point for a job. But I came across a research paper that demonstrated the number one way to improve the wording of your resume is to put negative qualifiers last, because people don't read all the way and end up missing the qualifier. So I changed it to `UW Co-op Student of the Year nominee,` and lo and behold, multiple interviewers thought I had won! So go change your `Participated in X hackathon` point to `X Hackathon participant,` folks.
+I used to have `Nominated for UW Co-op Student of the Year` as my main bullet point for a job. But I came across a research paper that demonstrated the number one way to improve the wording of your resume is to put negative qualifiers last, because people don't read all the way and end up missing the qualifier. So I changed it to `UW Co-op Student of the Year nominee`, and lo and behold, multiple interviewers thought I had won! So go change your `Participated in X hackathon` point to `X Hackathon participant`, folks.
 
 ## Upcoming
 
