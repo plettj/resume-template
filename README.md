@@ -24,7 +24,7 @@ I hope to make a LaTeX version of this resume at some point in the near future.
 
 This project is licensed under the MIT License.
 
-##### Attribution Requirement
+#### Attribution Requirement
 
 When distributing or sharing this template, you must provide appropriate credit by linking back to this repository.
 
