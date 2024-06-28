@@ -4,7 +4,7 @@ A single-page, simple, and unique resume for students. It uses tables and custom
 
 I designed this resume for two things:
 - To stand out among the sea of applicants both with the style and the content, and
-- To be easy for recruiters to parse or skim with there extremely limitted time.
+- To be easy for recruiters to parse/skim with their limitted time.
 
 ## Quick start
 
