@@ -42,6 +42,7 @@ Students have gotten jobs at the following Companies / Titles with this resume t
 
 - [SNOLAB](https://www.snolab.ca/) / Liquid Argon Dark Matter Experimenter
 - [Portage Labs](https://www.portagelabs.io/) / Founding Engineer Co-op
+- [Carta](https://carta.com/) / Automation Engineer
 
 ## License
 
